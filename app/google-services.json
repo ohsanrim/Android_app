@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "578162633848",
+    "project_id": "ohsanrim-aa0f2",
+    "storage_bucket": "ohsanrim-aa0f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578162633848:android:522c7e4da74fcdac16d18d",
+        "android_client_info": {
+          "package_name": "com.example.ohsanrim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578162633848-4su7rvi9r4jkv9sppsnqfbftbaorif7d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ohsanrim",
+            "certificate_hash": "bec855f9743599c12ec2bd05bacc48e38592e4d6"
+          }
+        },
+        {
+          "client_id": "578162633848-o97ifa3vhsru2jti3fu7clm94acatvqq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmGBLDv3hozLpOD3E_5b4DnH06mYrOiEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578162633848-o97ifa3vhsru2jti3fu7clm94acatvqq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
